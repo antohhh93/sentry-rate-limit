@@ -12,7 +12,7 @@ from setuptools import find_packages, setup
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 
 def get_requirements():
     with open(f"requirements.txt") as fp:
