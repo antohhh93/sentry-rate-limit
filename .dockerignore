@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+!/docker
+!/ratelimit
+!/requirements.txt
+!/setup.py
+!/README.md
